@@ -1,2 +1,3 @@
-# NKOJ_Better
-对于NKOJ的一些并不重要的优化。
+## NKOJ Better
+
+本插件为篡改猴插件，优化 NKOJ 界面。
